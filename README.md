@@ -1,6 +1,6 @@
 # Open-interface Programmable Pressure Controller
 
-<img src="images/open-interface_programmable_pressure_controller.jpg" width="800"/>
+<img src="images/open-interface_programmable_pressure_controller.jpg" width="1000"/>
 
 An open-source programmable pressure controller designed for pneumatic actuation in robotics and automation. This device enables computer-controlled air pressure output in real time, through a serial communication protocol. With a built-in manual controller, it also supports stand-alone operation. The controller can be operated from any platform capable of serial communication, making it compatible with a wide range of robotics and automation frameworks. This open-interface design allows the system to be easily adapted and integrated into unique or custom robotic applications.
 
@@ -74,7 +74,7 @@ This device also supports manual operation for stand-alone use. There are three 
 
 ## Wiring Diagram
 
-<img src="images/wiring_diagram.jpg" width="800"/>
+<img src="images/wiring_diagram.jpg" width="1000"/>
 
 ## Firmware
 
