@@ -14,6 +14,7 @@ An open-source programmable pressure controller designed for pneumatic actuation
 | Max Frequency        | 10 Hz                                    |
 | Programming Protocol | Serial Communication (Baud Rate: 115200) |
 | Dimension (WxLxH)    | 185x236.2x150 mm                         |
+| Weight (kg)          | 1.35                                     |
 
 ## Instruction Manual
 
